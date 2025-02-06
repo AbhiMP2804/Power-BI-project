@@ -41,12 +41,6 @@ This Power BI dashboard provides an interactive analysis of **Global Superstore*
 2. Open it in **Power BI Desktop**.  
 3. Explore the interactive dashboard by filtering different categories and timelines.  
 
-## 📸 Project Visuals  
-### 1️⃣ Sales Performance Overview  
-![Sales Performance](your-image-link-here)
-
-### 2️⃣ Regional Sales Distribution  
-![Regional Sales](your-image-link-here)
 
 ## 📥 Download Files  
 📂 **Dataset**: [global_superstore.xlsx](your-download-link-here)  
