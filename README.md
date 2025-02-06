@@ -43,7 +43,7 @@ This Power BI dashboard provides an interactive analysis of **Global Superstore*
 
 
 ## 📥 Download Files  
-📂 **Dataset**: [global_superstore.xlsx](your-download-link-here)  
+📂 **Dataset**: [[global_superstore.xlsx](your-download-link-here)](https://github.com/AbhiMP2804/Power-BI-project/blob/master/Global%20Superstore.pbix)  
 📂 **Power BI File**: [Global Superstore.pbix](your-download-link-here)  
 
 ## 📢 Contributions & Feedback  
